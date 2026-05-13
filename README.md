@@ -144,7 +144,7 @@
 
 🌐 - 3rd Party Indexes
 
-↪️ - Storage Page Links
+↪️ - Section Links
 
 ⭐ - Community Recommendations
 
